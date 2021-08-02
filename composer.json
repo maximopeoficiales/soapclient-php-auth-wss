@@ -1,0 +1,11 @@
+{
+    "require": {
+        "larapack/dd": "^1.1",
+        "wsdl2phpgenerator/wsdl2phpgenerator": "^3.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "WB\\":"wb"
+        }
+    }
+}
